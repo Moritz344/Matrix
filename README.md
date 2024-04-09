@@ -2,7 +2,7 @@
 This Python script continuously prints random numbers from a predefined list with a slight delay between each print.
 
 **Requirements**
-- Python 3.x
+- Python 
 - termcolor library[pip install termcolor]
 
 
