@@ -1,4 +1,4 @@
-Random Number Printer
+**Random Number Printer:**
 This Python script continuously prints random numbers from a predefined list with a slight delay between each print.
 
 **Requirements**
